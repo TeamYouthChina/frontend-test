@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "exit 2"
-exit 2
+echo "exit 0"
+exit 0
